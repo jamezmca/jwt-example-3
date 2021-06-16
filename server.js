@@ -1,5 +1,4 @@
 //for everything that isn't authentication
-
 require('dotenv').config()
 
 const express = require('express')
